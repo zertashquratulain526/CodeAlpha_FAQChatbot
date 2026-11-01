@@ -1,0 +1,104 @@
+{
+  "topic": "ShopEasy Online Store",
+  "faqs": [
+    {"question": "How can I place an order?",
+     "variants": ["how to buy a product", "how do I order something", "steps to purchase an item from the website"],
+     "answer": "Browse the products, add the items you like to your cart and click 'Checkout'. Enter your delivery address, choose a payment method and confirm the order."},
+
+    {"question": "How do I track my order?",
+     "variants": ["where is my parcel", "where is my package", "track my shipment", "order status", "has my order been shipped"],
+     "answer": "Go to 'My Orders' in your account and click 'Track Order'. You will also receive a tracking link by email and SMS once your parcel is shipped."},
+
+    {"question": "What payment methods do you accept?",
+     "variants": ["how can I pay", "can I pay with a credit card or debit card", "do you accept jazzcash or easypaisa", "payment options"],
+     "answer": "We accept Visa and Mastercard credit/debit cards, JazzCash, Easypaisa, bank transfer and Cash on Delivery (COD)."},
+
+    {"question": "Is Cash on Delivery available?",
+     "variants": ["can I pay cash when the order arrives", "do you have COD", "pay on delivery"],
+     "answer": "Yes, Cash on Delivery is available in all major cities for orders up to Rs. 50,000."},
+
+    {"question": "How long does delivery take?",
+     "variants": ["how many days for delivery", "when will my order arrive", "delivery time", "how fast do you ship"],
+     "answer": "Delivery takes 2-4 working days in major cities and 4-7 working days in other areas."},
+
+    {"question": "How much are the shipping charges?",
+     "variants": ["is delivery free", "do you charge for shipping", "what is the delivery fee", "free shipping"],
+     "answer": "Shipping is free for orders above Rs. 3,000. For smaller orders a flat fee of Rs. 200 is charged."},
+
+    {"question": "Can I cancel my order?",
+     "variants": ["I want to cancel my order", "how to cancel a purchase", "I changed my mind and don't want the order"],
+     "answer": "Yes. You can cancel an order from 'My Orders' before it is shipped. Once the parcel is dispatched it can no longer be cancelled, but you can return it after delivery."},
+
+    {"question": "What is your return policy?",
+     "variants": ["how do I return a product", "can I send an item back", "how many days to return an item", "return an item I bought"],
+     "answer": "You can return most items within 14 days of delivery if they are unused and in their original packaging. Go to 'My Orders' and click 'Return Item'."},
+
+    {"question": "How do I get a refund?",
+     "variants": ["when will I get my money back", "refund time", "how long does a refund take", "I want my money returned"],
+     "answer": "Refunds are issued to your original payment method within 5-7 working days after we receive the returned item. COD orders are refunded to your bank account or mobile wallet."},
+
+    {"question": "What should I do if I received a damaged or wrong product?",
+     "variants": ["my order arrived broken", "the item is defective", "I got the wrong item", "product is faulty or not working", "received a different product than I ordered"],
+     "answer": "We are sorry about that! Contact support within 48 hours of delivery with photos of the product and your order number. We will replace it or refund you at no extra cost."},
+
+    {"question": "How can I create an account?",
+     "variants": ["how to sign up", "register on the website", "I want to make a new profile", "can I sign up with google"],
+     "answer": "Click 'Sign Up' at the top of the page, enter your name, email and password, then verify your email address. You can also sign up with your Google account."},
+
+    {"question": "I forgot my password. How can I reset it?",
+     "variants": ["can't log in to my account", "reset my password", "change my password", "I lost my login password"],
+     "answer": "Click 'Forgot Password' on the login page, enter your registered email and we will send you a link to set a new password."},
+
+    {"question": "How can I change my delivery address?",
+     "variants": ["update my shipping address", "I entered the wrong address", "send the order to a different address"],
+     "answer": "Open 'My Account' > 'Addresses' to edit your address. To change the address of an order that is already placed, contact support before it is shipped."},
+
+    {"question": "Do you deliver internationally?",
+     "variants": ["do you ship abroad", "can I order from another country", "overseas shipping", "do you deliver outside Pakistan"],
+     "answer": "At the moment we deliver only within Pakistan. International shipping will be available soon."},
+
+    {"question": "How can I contact customer support?",
+     "variants": ["customer care phone number", "how to talk to a human agent", "support email address", "I need help from your team"],
+     "answer": "You can email support@shopeasy.example, call 0300-0000000 (Mon-Sat, 9am-6pm) or use the live chat on our website."},
+
+    {"question": "What are your customer support working hours?",
+     "variants": ["what time is support open", "when are you available", "office timings", "which days is customer service open"],
+     "answer": "Our support team is available Monday to Saturday from 9:00 am to 6:00 pm."},
+
+    {"question": "Do you offer warranty on electronics?",
+     "variants": ["is there a guarantee on gadgets", "warranty period for phones and laptops", "how do I claim warranty"],
+     "answer": "Yes. All electronics come with a manufacturer warranty of 6 to 12 months, mentioned on the product page. Keep your invoice for warranty claims."},
+
+    {"question": "Are the products original and authentic?",
+     "variants": ["are your products fake or copies", "is this item genuine", "do you sell branded original goods"],
+     "answer": "Yes, we only sell 100% original products sourced directly from brands and authorized distributors."},
+
+    {"question": "How do I use a discount coupon or promo code?",
+     "variants": ["where do I enter a voucher code", "apply coupon at checkout", "my promo code is not working"],
+     "answer": "Enter the code in the 'Promo Code' box on the checkout page and click 'Apply'. The discount will be shown in your order total."},
+
+    {"question": "Do you have any sales or discounts running?",
+     "variants": ["any offers right now", "current deals and promotions", "is there a sale going on", "cheaper prices"],
+     "answer": "Yes! Check the 'Deals' page for current offers. Subscribe to our newsletter to get early access to seasonal sales."},
+
+    {"question": "Can I exchange a product for a different size or colour?",
+     "variants": ["swap an item for another size", "I ordered the wrong size", "change the colour of my product", "exchange policy"],
+     "answer": "Yes, exchanges are accepted within 14 days for clothing and shoes, subject to stock availability. Select 'Exchange' instead of 'Return' in 'My Orders'."},
+
+    {"question": "Is my payment information safe?",
+     "variants": ["is my card information secure", "is it safe to pay online on your website", "do you store my credit card details", "is checkout secure"],
+     "answer": "Absolutely. All payments are processed through encrypted, PCI-compliant gateways. We never store your card details."},
+
+    {"question": "What should I do if my order is delayed?",
+     "variants": ["my parcel has not arrived yet", "my order is late", "delivery is taking too long", "package is stuck"],
+     "answer": "Please check your tracking link first. If your order is delayed by more than 3 days, contact support with your order number and we will investigate immediately."},
+
+    {"question": "Can I change or modify my order after placing it?",
+     "variants": ["add another item to my order", "edit my order quantity", "I want to modify an order I already placed"],
+     "answer": "You can modify items or quantities only before the order is shipped. Please contact support as soon as possible with your order number."},
+
+    {"question": "How do I subscribe or unsubscribe from the newsletter?",
+     "variants": ["stop sending me promotional emails", "join your mailing list", "unsubscribe from emails"],
+     "answer": "Enter your email in the newsletter box at the bottom of the page to subscribe. To unsubscribe, click the 'Unsubscribe' link at the bottom of any newsletter email."}
+  ]
+}
